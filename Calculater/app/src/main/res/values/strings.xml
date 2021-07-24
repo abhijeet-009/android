@@ -19,6 +19,8 @@
     <string name="add">+</string>
     <string name="equal">=</string>
     <string name="plusminus">+/-</string>
-    //<string name="app_name">Calculater</string>
+    <string name="backspace"> </string>
+    <string name="display">Enter a value</string>
+    <string name="app_name">Calculator</string>
 
 </resources>
